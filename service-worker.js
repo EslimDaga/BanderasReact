@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BanderasReact/precache-manifest.a74a96c0468cca1be75f814a4cd0e9c1.js"
+  "/BanderasReact/precache-manifest.b4dee965abf8ee73ffbf63511e40ca3a.js"
 );
 
 self.addEventListener('message', (event) => {
