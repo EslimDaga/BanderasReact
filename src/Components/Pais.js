@@ -23,7 +23,7 @@ const PaisStyled = styled.div`
     }
     p{
         font-size : .9em;
-        margin-botton : .5rem;
+        margin-bottom : .5rem;
     }
 `
 function Pais({bandera,nombre,poblacion,region,capital}){

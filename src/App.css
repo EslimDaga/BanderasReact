@@ -9,6 +9,7 @@ html{
 }
 
 body{
+  background : var(--background) ;
   font-family: 'Baloo 2', cursive;
   color : var(--black);
 }
