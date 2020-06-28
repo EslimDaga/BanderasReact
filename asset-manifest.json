@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BanderasReact/static/css/main.392e0663.chunk.css",
+    "main.js": "/BanderasReact/static/js/main.bf171fbb.chunk.js",
+    "main.js.map": "/BanderasReact/static/js/main.bf171fbb.chunk.js.map",
+    "runtime-main.js": "/BanderasReact/static/js/runtime-main.32ce4e4e.js",
+    "runtime-main.js.map": "/BanderasReact/static/js/runtime-main.32ce4e4e.js.map",
+    "static/js/2.6c7001ef.chunk.js": "/BanderasReact/static/js/2.6c7001ef.chunk.js",
+    "static/js/2.6c7001ef.chunk.js.map": "/BanderasReact/static/js/2.6c7001ef.chunk.js.map",
+    "index.html": "/BanderasReact/index.html",
+    "precache-manifest.231f6f87405c12105c6cd7b317367b54.js": "/BanderasReact/precache-manifest.231f6f87405c12105c6cd7b317367b54.js",
+    "service-worker.js": "/BanderasReact/service-worker.js",
+    "static/css/main.392e0663.chunk.css.map": "/BanderasReact/static/css/main.392e0663.chunk.css.map",
+    "static/js/2.6c7001ef.chunk.js.LICENSE.txt": "/BanderasReact/static/js/2.6c7001ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32ce4e4e.js",
+    "static/js/2.6c7001ef.chunk.js",
+    "static/css/main.392e0663.chunk.css",
+    "static/js/main.bf171fbb.chunk.js"
+  ]
+}
