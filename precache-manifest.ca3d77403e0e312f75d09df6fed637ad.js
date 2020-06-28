@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "422801fa7be0de6d6b106e8255ed4e03",
+    "revision": "d7514bd628a42aaf885abfef75b32db9",
     "url": "/BanderasReact/index.html"
   },
   {
-    "revision": "6ad66bd25f93f3cfeef2",
+    "revision": "f7385fb682512cb1543b",
     "url": "/BanderasReact/static/css/main.392e0663.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BanderasReact/static/js/2.6c7001ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ad66bd25f93f3cfeef2",
-    "url": "/BanderasReact/static/js/main.5cc4a4dd.chunk.js"
+    "revision": "f7385fb682512cb1543b",
+    "url": "/BanderasReact/static/js/main.54a49601.chunk.js"
   },
   {
     "revision": "7251d3346d9ea25b8012",

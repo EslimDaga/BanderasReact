@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BanderasReact/static/css/main.392e0663.chunk.css",
-    "main.js": "/BanderasReact/static/js/main.5cc4a4dd.chunk.js",
-    "main.js.map": "/BanderasReact/static/js/main.5cc4a4dd.chunk.js.map",
+    "main.js": "/BanderasReact/static/js/main.54a49601.chunk.js",
+    "main.js.map": "/BanderasReact/static/js/main.54a49601.chunk.js.map",
     "runtime-main.js": "/BanderasReact/static/js/runtime-main.32ce4e4e.js",
     "runtime-main.js.map": "/BanderasReact/static/js/runtime-main.32ce4e4e.js.map",
     "static/js/2.6c7001ef.chunk.js": "/BanderasReact/static/js/2.6c7001ef.chunk.js",
     "static/js/2.6c7001ef.chunk.js.map": "/BanderasReact/static/js/2.6c7001ef.chunk.js.map",
     "index.html": "/BanderasReact/index.html",
-    "precache-manifest.b4dee965abf8ee73ffbf63511e40ca3a.js": "/BanderasReact/precache-manifest.b4dee965abf8ee73ffbf63511e40ca3a.js",
+    "precache-manifest.ca3d77403e0e312f75d09df6fed637ad.js": "/BanderasReact/precache-manifest.ca3d77403e0e312f75d09df6fed637ad.js",
     "service-worker.js": "/BanderasReact/service-worker.js",
     "static/css/main.392e0663.chunk.css.map": "/BanderasReact/static/css/main.392e0663.chunk.css.map",
     "static/js/2.6c7001ef.chunk.js.LICENSE.txt": "/BanderasReact/static/js/2.6c7001ef.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.32ce4e4e.js",
     "static/js/2.6c7001ef.chunk.js",
     "static/css/main.392e0663.chunk.css",
-    "static/js/main.5cc4a4dd.chunk.js"
+    "static/js/main.54a49601.chunk.js"
   ]
 }
