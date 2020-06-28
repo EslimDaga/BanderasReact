@@ -1,5 +1,4 @@
 export default function reducer(state,action) {
-    console.log(action);
     switch(action.type){
       case "CONFI_LISTA_PAIS" : {
         return {...state, listaPais : action.payload};
