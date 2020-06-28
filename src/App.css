@@ -1,3 +1,18 @@
+html{
+  font-size: 14px;
+}
+
+:root{
+  --black : #111517;
+  --white : white;
+  --background : #FAFAFA;
+}
+
+body{
+  font-family: 'Baloo 2', cursive;
+  color : var(--black);
+}
+
 .App {
   text-align: center;
 }
