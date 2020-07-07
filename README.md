@@ -1,3 +1,5 @@
+https://res.cloudinary.com/dz209s6jk/image/upload/v1554827486/Challenges/wirxeocmd6tpnn9c5oqc.jpg
+
 [Create React App](https://github.com/facebook/create-react-app).
 
 ## Guiones disponibles
