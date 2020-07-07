@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/EslimDaga/BanderasReact/master/desktop-preview.jpg)
+![Image_Preview](https://raw.githubusercontent.com/EslimDaga/BanderasReact/master/desktop-preview.jpg)
 
 [Create React App](https://github.com/facebook/create-react-app).
 
