@@ -1,13 +1,13 @@
 [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Guiones disponibles
 
-In the project directory, you can run:
+En el directorio del proyecto, puede ejecutar:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Ejecuta la aplicación en modo de desarrollo.<br>
+Abra http: // localhost: 3000 para verlo en el navegador.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
